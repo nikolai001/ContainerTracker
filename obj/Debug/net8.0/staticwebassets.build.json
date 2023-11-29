@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T1GX65twSuHdBX1tEFrp/av6x2JPSf4QVnkZCH20hN8=",
+  "Source": "ContainerTracker",
+  "BasePath": "_content/ContainerTracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
